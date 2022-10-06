@@ -13,6 +13,7 @@ Entrada:
   Salida:
   -Resumen de los datos dl estudiante con su promedio 
   
+  ~~~
   -------------------------------------------------------
   -Estudiante: Carol Bando Hernandez
   -Grupo: 1A   Carrera: INGENIERIA INFORMATICA
@@ -23,3 +24,7 @@ Entrada:
   ------------------------------------------------------
   -Promedio:                          80
   -----------------------------------------------------
+~~~
+
+
+![](https://github.com/carolbandoher/T3A1---Ejercicio-01/blob/main/Estudiante.png)
